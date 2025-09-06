@@ -1,0 +1,61 @@
+# Ultimate Pi-hole Blocklist by kidaren - Light Version
+# Essential ad networks and trackers only
+# Last updated: 2025-01-27
+# Total domains: ~200+ (Updated automatically)
+
+## 🌍 Essential Global Ad Networks
+doubleclick.net
+googleads.g.doubleclick.net
+googlesyndication.com
+pagead.l.doubleclick.net
+partner.googleadservices.com
+adservice.google.com
+ads.yahoo.com
+adnxs.com
+ads.pubmatic.com
+advertising.com
+contextweb.com
+criteo.com
+media.net
+openx.net
+outbrain.com
+taboola.com
+rubiconproject.com
+amazon-adsystem.com
+amazonaax.com
+s.amazon-adsystem.com
+
+## 📊 Essential Analytics & Tracking
+google-analytics.com
+ssl.google-analytics.com
+googletagmanager.com
+googletagservices.com
+mixpanel.com
+hotjar.com
+segment.io
+scorecardresearch.com
+
+## 📱 Essential Social Media Tracking
+facebook.com
+connect.facebook.net
+graph.facebook.com
+platform.twitter.com
+analytics.twitter.com
+ads.linkedin.com
+analytics.linkedin.com
+
+## 🇿🇦 Essential South African Retail
+ads.takealot.com
+tracking.takealot.com
+ads.makro.co.za
+tracking.makro.co.za
+ads.pnp.co.za
+track.pnp.co.za
+ads.woolworths.co.za
+track.woolworths.co.za
+
+## 📰 Essential South African Media
+ads.news24.com
+ads.iol.co.za
+ads.timeslive.co.za
+ads.dailymaverick.co.za

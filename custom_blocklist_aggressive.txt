@@ -1,7 +1,15 @@
-# Ultimate Pi-hole Blocklist by kidaren
+# Ultimate Pi-hole Blocklist by kidaren - Aggressive Version
 # Comprehensive ad networks, trackers, analytics, malware, and regional domains
-# Last updated: 2025-09-06
-# Total domains: ~607+ (Updated automatically)
+# AGGRESSIVE BLOCKING - May break some functionality
+# Last updated: 2025-01-27
+# Total domains: ~700+ (Updated automatically)
+# 
+# ⚠️ WARNING: This aggressive version may block:
+# - Some legitimate services that use tracking
+# - Social media embeds and widgets
+# - E-commerce functionality
+# - Streaming platform features
+# - Analytics that some sites require to function
 # 
 # 🚀 Features:
 # - Global ad networks & trackers
@@ -12,6 +20,7 @@
 # - South African regional focus
 # - Streaming platform ads
 # - E-commerce tracking
+# - Additional aggressive blocking
 
 ## 🌍 Global Ad Networks
 doubleclick.net
@@ -648,3 +657,9 @@ trackjs.com
 errorception.com
 airbrake.io
 honeybadger.io
+
+## 🚫 Aggressive Additional Blocking
+apis.google.com
+fonts.googleapis.com
+fonts.gstatic.com
+ajax.googleapis.com
