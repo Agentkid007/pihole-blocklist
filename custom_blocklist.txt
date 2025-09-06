@@ -68,8 +68,8 @@ branch.io
 ## 🇿🇦 South African Retail & Delivery
 ads.massmart.co.za
 track.massmart.co.za
-makro.co.za/ads
-makro.co.za/tracking
+ads.makro.co.za
+tracking.makro.co.za
 ads.takealot.com
 tracking.takealot.com
 pixel.takealot.com
@@ -95,7 +95,6 @@ ads.hifi-corp.co.za
 track.hifi-corp.co.za
 autotrader.co.za
 temu.com
-
 
 ## 📰 South African Media & Ad Platforms
 ads.adclick.co.za

@@ -10,3 +10,6 @@ This is a curated blocklist designed for Pi-hole users in South Africa. It targe
 ## Usage
 
 Add the following URL to your Pi-hole adlists:
+```
+https://raw.githubusercontent.com/Agentkid007/pihole-blocklist/main/custom_blocklist.txt
+```
